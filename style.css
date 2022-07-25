@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+
+} */
+#paragraf3{
+    background-color: blueviolet;
+}
+
+#paragraf2{
+    background-color: crimson;
+    width: 10rem;
+    margin: auto;
+    border: 3px solid blue;
+
+}
+
+.ortak{
+    background-color: burlywood;
+}
+
+#id3{
+    background-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px ;
+}
+
+.container{
+    border: 2px solid red;
+    padding: 20px;
+}
+
+#last{
+    background-color: darkorange;
+    padding: inherit;
+}
